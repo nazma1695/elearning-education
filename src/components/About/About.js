@@ -57,8 +57,6 @@ const About = () => {
           </div>
         </div>
       </div>
-
-      {/* <Banner></Banner> */}
       <Footer></Footer>
     </div>
   );
