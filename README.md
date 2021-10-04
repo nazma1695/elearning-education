@@ -6,6 +6,8 @@ Live site- https://elearning-education-nazma.netlify.app/
 
 ** You can see Our Educational System
 
+** You can see Our Services
+
 ** You can see Our Service Details
 
 ** You can see Our Service Price
