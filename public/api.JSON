@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "HTML5 for beginners",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam dicta at aliquam...",
+    "price": 20,
+    "img": "https://demo.themeies.com/elearning/images/course/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Advance CSS3 animations",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam dicta at aliquam...",
+    "price": 18,
+    "img": "https://demo.themeies.com/elearning/images/course/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Core Javascript basics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam dicta at aliquam...",
+    "price": 20,
+    "img": "https://demo.themeies.com/elearning/images/course/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chemistry periodic table",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam dicta at aliquam...",
+    "price": 14,
+    "img": "https://demo.themeies.com/elearning/images/course/4.jpg"
+  }
+]
